@@ -852,7 +852,7 @@ img::selection {
 }
 
 img::-moz-selection {
-    background: 0 0;
+    backgraund: 0 0;
 }
 
 body {
